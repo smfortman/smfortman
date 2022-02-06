@@ -1,7 +1,7 @@
 # Few words about me...
 
 ###  Hi there, I’m Sergei 👋
-___I'm looking for trainee position and my first job in developing___
+___I'm looking for trainee position and my first job in development___
 - ✨ I'm currently learning all about Frontend development
 - 👀 Тake a look on my CV:  https://smfortman.github.io/cv/
 - 📫 You can reach me via email
