@@ -3,7 +3,7 @@
 ###  Hi there, I’m Sergei 👋
 ___I'm looking  for trainee position and my first job___
 - ✨ I'm currently learning all about Frontend development
-- 👀 Тake a look on my CV:
+- 👀 Тake a look on my CV:  https://smfortman.github.io/cv/
 - 📫 You can reach me via email
 
 ### There are stacks and tools I practice with:
