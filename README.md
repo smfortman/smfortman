@@ -1,10 +1,10 @@
 # Few words about me...
 
 ###  Hi there, I’m Sergei 👋
-___I'm looking for trainee position and my first job in development___
-- ✨ I'm currently learning all about Frontend development
+___I'm looking to collaborate in Frontend Development___
+- ✨ I’m currently learning everything I can get my hands on
 - 👀 Тake a look on my CV:  https://smfortman.github.io/cv/
-- 📫 You can reach me via email
+- 📫 You can reach me via email: sergei.fortman@gmail.com
 
 ### There are stacks and tools I practice with:
 
@@ -28,4 +28,4 @@ ___I'm looking for trainee position and my first job in development___
 
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<img align="left" alt="Mac" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" />
+<!-- <img align="left" alt="Mac" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" /> -->
