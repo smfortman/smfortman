@@ -1,10 +1,10 @@
 # Few words about me...
 
-###  Hi there, I’m Sergei 👋
-___I'm looking to collaborate in Frontend Development___
+###  Hi there, I’m Niklas 👋
+
 - ✨ I’m currently learning everything I can get my hands on
 - 👀 Тake a look on my CV:  https://smfortman.github.io/cv/
-- 📫 You can reach me via email: sergei.fortman@gmail.com
+- 📫 You can reach me via email: niklas.fortman@gmail.com
 
 ### There are stacks and tools I practice with:
 
